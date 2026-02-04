@@ -89,4 +89,6 @@ Run Organized_SVD_QR_PCA_CSV_files.py after running Code_Compare_dr_methods_real
  Consistent terminology we used in the manuscript for back and forth check:
    - 'QR Projection' (our method)
    - 'Full SVD' (baseline)
+
    - 'PCA' (baseline)
+Finally , the script train_spectral_rrd_revised_ t_value_comparison.py gives emperical test for selecting the number of iterations during QR iteration ...  
